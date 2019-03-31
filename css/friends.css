@@ -2,7 +2,7 @@
   border-top: 1px solid #ebebeb;
   border-bottom: 1px solid #ebebeb;
   padding: 10px 15px;
-  font-size: 12px;
+  font-size: 13px;
   color: #b4b4b4;
 }
 
@@ -10,7 +10,7 @@
   padding: 10px 15px;
   display: flex;
   align-items: center;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .friends__section-row.with-tagline {
@@ -18,7 +18,7 @@
 }
 
 .friends__section-tagline {
-  font-size: 10px;
+  font-size: 12px;
   background: #f0f0f0;
   padding: 10px 10px;
   border-radius: 5px;
